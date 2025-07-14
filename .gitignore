@@ -9,6 +9,9 @@ target/
 **/tokens
 **/credentials.json
 **/imagedetection.json
+src/main/resources/imagedetection.json
+src/main/resources/credentials.json
+
 
 ### STS ###
 .apt_generated
